@@ -1,0 +1,10 @@
+#Arithmetic Operations
+a=int(input("Enter value of a = "))
+b=int(input("Enter value of b = "))
+print("Add = ", a+b)
+print("Sub = ", a-b)
+print("Div = ", a/b)
+print("Mul = ", a*b)
+print("Mod = ", a%b)
+print("Exp = ", a**b)
+print("Floor Div = ", a//b)
